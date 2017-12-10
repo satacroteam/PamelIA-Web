@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: picture_3.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Find medical support around you.
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+This feature give you access to all the doctor's information around you to find the best medical support. 

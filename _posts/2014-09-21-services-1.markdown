@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: picture_1.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: A smart chatbot to have advice about your skin
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+This chatbot will give you precise advices to protect your skin everyday. 
