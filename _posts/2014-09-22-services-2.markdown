@@ -6,6 +6,9 @@ title: Melanoma detection
 description: |
 ---
 One of the app's features is to detect if a mole is a melanoma. You simply take a picture of the mole with the app and it will analyse it.
+
 The analyse is done with a new technology which came of the IA field : convolution neural network.
+
 The algorithm is really efficient with a mean accuracy precision above 90%.
+
 This technology allows everybody to profit IA best algorithms in order to protect their skin.
