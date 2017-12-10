@@ -26,6 +26,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: twitter
+    url:
   - title: github
     url: https://github.com/satacroteam/PamelIA
   - title: linkedin
