@@ -2,9 +2,10 @@
 layout: default
 img: picture.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Melanoma detection
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+One of the app's features is to detect if a mole is a melanoma. You simply take a picture of the mole with the app and it will analyse it.
+The analyse is done with a new technology which came of the IA field : convolution neural network.
+The algorithm is really efficient with a mean accuracy precision above 90%.
+This technology allows everybody to profit IA best algorithms in order to protect their skin.
