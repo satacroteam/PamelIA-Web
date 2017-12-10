@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: picture.png
 category: Services
 title: 3D Device Mockups<br>by PSDCovers
 description: |
