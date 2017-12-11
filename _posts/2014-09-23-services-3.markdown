@@ -2,7 +2,9 @@
 layout: default
 img: picture_3.png
 category: Services
-title: Find medical support around you.
+title: Find best medical support around you.
 description: |
 ---
-This feature give you access to all the doctor's information around you to find the best medical support. 
+This feature give you access to all the doctor’s information around you to find the best medical support.
+
+You will be able to find all the skin specilists and set up a meeting easily.
