@@ -5,4 +5,8 @@ category: Services
 title: A smart chatbot to have advice about your skin
 description: |
 ---
-This chatbot will give you precise advices to protect your skin everyday. 
+This chatbot will give you precious advices to protect your skin in your daily life.
+
+This chatbot is build with IA algorithm in order to focus your skin texture, the climat where you live and your way of life.
+
+The objective is to furnish an educational tool to prevent skin desease.
